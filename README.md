@@ -1,5 +1,5 @@
 <h1>Резюме</h1>
 <ul>
-  <li>Список</li>
+  <li><font color="red"></font>Список</li>
   <li>Список</li>
 </ul>
