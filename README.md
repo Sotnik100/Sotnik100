@@ -1,1 +1,1 @@
-<h1 style="background: #079;">Резюме</h1>
+<h1 style="color: #079;">Резюме</h1>
