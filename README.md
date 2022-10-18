@@ -1,6 +1,5 @@
 <h1>Резюме</h1>
 <ul>
-  <li><font color="red"></font>Список</li>
-  <li>Список</li>
+  <li>[**Введение в архитектуру ЭВМ. Элементы операционных систем.**](https://stepik.org/cert/1721243)</li>
 </ul>
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }
+
