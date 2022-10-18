@@ -1,12 +1,19 @@
-## Резюме
+|<p>**Андрей**  **Белоусов**</p><p>Разработчик</p>||
+| :- | :- |
+|||
 
-- 👋 Hi, I’m @Sotnik100
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+|||Phone|+79500257785|
+| :- | -: | :- | :- |
+|Country|Российская Федерация|Email|belousoffplus@gmail.com|
+|City|Качуг||
 
-<!---
-Sotnik100/Sotnik100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+||
+| :- |
+|<p>**Профессиональное резюме**</p><p>Прохожу обучение в ресурсе Stepik</p>|
+|**Образование**|
+
+|<p></p><p>` `– </p>|<p>**Полная средняя**</p><p></p>||
+| :- | :- | -: |
+
+||
+| :- |
