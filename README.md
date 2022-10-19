@@ -12,3 +12,10 @@
 
 ---
 ### Статьи
+
+---
+### Ссылки
+
+- **[Архитектуру ЭВМ. Видео Younube](https://www.youtube.com/watch?v=ykUmmfZ_LxY&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)**
+
+### Литература
