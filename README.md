@@ -16,6 +16,6 @@
 ---
 ### Ссылки
 
-:black_square_button: **[Архитектуру ЭВМ. Видео Younube](https://www.youtube.com/watch?v=ykUmmfZ_LxY&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH)** :movie_camera:
+:black_square_button: [Архитектуру ЭВМ. Видео Youtube](https://www.youtube.com/watch?v=ykUmmfZ_LxY&list=PLnseyzyGdZdfv8H7LkvyVVE33fbBZaSdH):movie_camera:
 
 ### Литература
